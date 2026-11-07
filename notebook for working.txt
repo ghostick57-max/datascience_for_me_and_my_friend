@@ -1,0 +1,2 @@
+https://colab.research.google.com/drive/1zlY5ghr-toH2sUbezqPwLNrQAbxIfQOw?usp=sharing
+#this is our notebook in google collab for learning, working and funny
