@@ -15,5 +15,7 @@
 ## 📌 Статус
 
 На этом всё. Поехали!
+## Рабочие площадки!!!
+- [Google Collab](https://colab.research.google.com/drive/1zlY5ghr-toH2sUbezqPwLNrQAbxIfQOw?usp=sharing)
 ## Курсы!!!
 - [Основы Python для разработки нейронных сетей](https://stepik.org/course/261170/syllabus)
